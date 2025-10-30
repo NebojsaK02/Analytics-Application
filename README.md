@@ -5,6 +5,6 @@ Instructions how to get it running:
 3. Run the application
 
 You can access it on localhost:8080/h2-console
-Url: jdbc:h2:mem:analyticsdb
-Username: username
-Password: password
+     Url: jdbc:h2:mem:analyticsdb
+     Username: username
+     Password: password
